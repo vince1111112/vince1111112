@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vince1111112
-- 👀 I’m interested in ...removing frp locks and screen locks
+- 👀 I’m interested in ...cashapp 
 - 🌱 I’m currently learning ...any
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...hacking cashapp
 - 📫 How to reach me ...vincentdeaton9@gmail.com
 
 <!---
